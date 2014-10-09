@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SwitchingSpriteScene
+#
+
+projectname: SwitchingSpriteScene
+vendorid: com.mycompany
+mainmodule: com.mycompany.switchingspritescene
